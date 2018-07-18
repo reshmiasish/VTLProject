@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_60]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/velocity-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/velocity-tools-view-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/dev/Softwares/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/velocity-tools-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/reshmivn/Downloads/commons-digester-2.1.jar"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes/classes"/>
+</classpath>
